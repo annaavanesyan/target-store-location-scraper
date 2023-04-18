@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "puppeteer application for scrapping",
   "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:annaavanesyan/target-store-location-scraper.git"
+  },
   "scripts": {
     "start": "node app.js",
     "test": "mocha test.js"
