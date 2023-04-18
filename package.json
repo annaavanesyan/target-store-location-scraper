@@ -5,8 +5,14 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "test": "node test.js"
+    "test": "mocha test.js"
   },
   "author": "annaavanesyan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "fs": "^0.0.1-security",
+    "mocha": "^10.2.0",
+    "puppeteer": "^19.9.1"
+  }
 }

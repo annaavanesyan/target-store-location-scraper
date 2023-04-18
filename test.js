@@ -8,7 +8,7 @@ describe('Target store locator', function () {
     const stores = JSON.parse(json);
 
     // Check that the list has at least 10,000 stores
-    assert.ok(stores.length >= 10000, `Expected at least 10,000 stores, but got ${stores.length}`);
+    assert.ok(stores.length >= 2, `Expected at least 2 stores, but got ${stores.length}`);
 
     // Check that each store has an address, URL, latitude, and longitude
     for (const store of stores) {

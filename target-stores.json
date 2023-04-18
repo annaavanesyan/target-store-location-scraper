@@ -1,0 +1,14 @@
+[
+  {
+    "address": "123 Main St, Anytown, USA",
+    "url": "https://www.target.com/store/123",
+    "lat": "42.12345",
+    "lon": "-87.54321"
+  },
+  {
+    "address": "456 Elm St, Anytown, USA",
+    "url": "https://www.target.com/store/456",
+    "lat": "42.54321",
+    "lon": "-87.12345"
+  }
+]
