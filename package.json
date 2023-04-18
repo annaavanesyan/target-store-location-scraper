@@ -2,9 +2,9 @@
   "name": "puppeteer",
   "version": "1.0.0",
   "description": "puppeteer application for scrapping",
-  "main": "../target-store-location-scraper/app.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node ../target-store-location-scraper/app.js",
+    "start": "node app.js",
     "test": "node test.js"
   },
   "author": "annaavanesyan",
